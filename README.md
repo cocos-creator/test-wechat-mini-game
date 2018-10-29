@@ -5,3 +5,4 @@ WeChat distributes 50MB storage spaces to every mini game.If your app runs out o
 In this case,user needs to clean storage spaces manully.
 
 NOTICE:WeChat Dev Tools can not recreate this problem since the cache size on pc is unlimited.
+you will need a real phone to test this problem.
