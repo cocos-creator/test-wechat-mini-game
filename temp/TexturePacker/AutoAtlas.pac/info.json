@@ -1,0 +1,56 @@
+{
+  "packedTextures": [
+    {
+      "path": "D:\\NewProject_1\\temp\\TexturePacker\\AutoAtlas.pac\\AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "D:/NewProject_1/library/imports/d5/d57739bc-8eeb-41a0-a4f5-b757ddf3bad8.jpg",
+      "name": "11.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/58/587ab793-251d-4dcf-86d0-4ebf3331eb4f.jpg",
+      "name": "12.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/a2/a21c6a93-d37a-44d9-bb5b-ec14c0735b48.jpg",
+      "name": "13.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/f7/f76de26e-39d4-46b1-a277-894f070ce8d0.jpg",
+      "name": "14.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/a5/a57d3db1-f4a7-44e0-8af8-8f8160b5b305.jpg",
+      "name": "15.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/73/733715e2-f030-4c5a-89f1-bd515a46719d.jpg",
+      "name": "16.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/c1/c171abbd-2d0a-4be1-abee-e72d316a76b5.jpg",
+      "name": "17.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/2c/2c6f7202-dcd7-4659-811d-26c0e1ddaac7.jpg",
+      "name": "oYYBAFNse_eIKRtLAHPQwCcfWwAAABhHQGNjpIAc9DY302.jpg",
+      "size": "7204x3004"
+    },
+    {
+      "path": "D:/NewProject_1/library/imports/54/543b02c9-eb0d-4689-8f23-848fb0b5264a.jpg",
+      "name": "timg.jpg",
+      "size": "3460x2164"
+    }
+  ]
+}
